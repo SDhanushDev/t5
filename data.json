@@ -1,0 +1,40 @@
+{
+  "personal": {
+    "name": "Rana Roberts",
+    "title": "Quos provident dolo",
+    "bio": "Nulla facere ad enim",
+    "email": "bagimacihy@mailinator.com",
+    "phone": "+1 (838) 831-9868",
+    "location": "Doloribus officia ea",
+    "website": "https://www.hanac.co",
+    "linkedin": "https://www.cojupylyxiquxo.co",
+    "github": "https://www.lol.com"
+  },
+  "hero": {
+    "greeting": "Voluptate est omnis ",
+    "description": "Quis maxime aut est ",
+    "primaryButton": {
+      "text": "Mollit qui ut ipsam ",
+      "link": "Et"
+    },
+    "secondaryButton": {
+      "text": "Dolorem illum accus",
+      "link": "Quod commodo ea nisi"
+    }
+  },
+  "about": {
+    "description": [
+      "Eos et voluptatem p"
+    ],
+    "skills": [
+      "Qui in eligendi labo"
+    ]
+  },
+  "experience": [],
+  "projects": [],
+  "contact": {
+    "title": "Velit dolore unde ma",
+    "description": "Eos error consequatu",
+    "socialLinks": []
+  }
+}
